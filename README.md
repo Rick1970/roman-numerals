@@ -17,8 +17,8 @@ Run in browser of your choice._
 ## Specifications
 | Behavior | Input Example | Output Example |
 | ------------- |:-------------:| -----:|
-| should convert number 1 to I   | 1 | I
-| should convert numbers to basic of seven Roman symbols| 5 | V
+<!-- | should convert number 1 to I   | 1 | I -->
+<!-- | should convert numbers to basic of seven Roman symbols| 5 | V -->
 | should apply the rules of addition to the Roman symbols less than 10| 6 | returns VI
 | should apply the rules of subtraction to the Roman symbols less than 10| 4 | return IV
 |should apply the rule that separates ones, tens, hundreds, and thousands.| 84 | 80 + 4
